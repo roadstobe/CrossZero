@@ -1,0 +1,10 @@
+X:\projectsC#\firstWinForms\firstWinForms\bin\Debug\firstWinForms.exe.config
+X:\projectsC#\firstWinForms\firstWinForms\bin\Debug\firstWinForms.exe
+X:\projectsC#\firstWinForms\firstWinForms\bin\Debug\firstWinForms.pdb
+X:\projectsC#\firstWinForms\firstWinForms\obj\Debug\firstWinForms.csprojAssemblyReference.cache
+X:\projectsC#\firstWinForms\firstWinForms\obj\Debug\firstWinForms.Properties.Resources.resources
+X:\projectsC#\firstWinForms\firstWinForms\obj\Debug\firstWinForms.csproj.GenerateResource.cache
+X:\projectsC#\firstWinForms\firstWinForms\obj\Debug\firstWinForms.csproj.CoreCompileInputs.cache
+X:\projectsC#\firstWinForms\firstWinForms\obj\Debug\firstWinForms.exe
+X:\projectsC#\firstWinForms\firstWinForms\obj\Debug\firstWinForms.pdb
+X:\projectsC#\firstWinForms\firstWinForms\obj\Debug\firstWinForms.MainForm.resources
